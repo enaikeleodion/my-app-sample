@@ -5,3 +5,4 @@ this is my first time working with God who inspire me to learn version control u
 sample app tutorial
 this is my first time working with git
 >>>>>>> b3902e31285ebf2a781fbb465f63a2bc9106d1a4
+ffforigin https://github.com/enaikeleodion/my-app-sample.git
